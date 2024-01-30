@@ -1,4 +1,4 @@
-* {
+*{
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
@@ -27,4 +27,48 @@ h1{
 
 .logoimg{
     vertical-align: middle;
+}
+
+/*------------
+    MAIN
+------------*/
+
+.container{
+    margin: 40px auto;
+    max-width: 700px;
+    border-radius: 50px;
+}
+
+.cont{
+    background-color: white;
+    padding-left: 50px;
+}
+
+/* buttons */
+
+.cb{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 3px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.add{
+    padding: 7px 10px;
+    border-radius: 5px;
+    font-size: 12px;
+}
+
+.task{
+    background-color: #47ADF1;
+    border: 0px;
+    color: white
+}
+
+.sect{
+    box-sizing: border-box;
+    background-color: white;
+    color: #C6CCD1;
+    border: 1px solid #C6CCD1;
 }

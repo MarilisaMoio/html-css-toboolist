@@ -146,3 +146,14 @@ h1{
     background-color: #F29E33;
 }
 
+.blank{
+    display: none;
+}
+
+.web{
+    background-color: #D863A1;
+}
+
+.sales{
+    background-color: #B0C926;
+}

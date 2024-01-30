@@ -3,3 +3,28 @@
     padding: 0px;
     box-sizing: border-box;
 }
+
+body{
+    background-color: #F6F8F9;
+    font-family: 'Roboto', sans-serif;
+}
+
+/*------------
+    HEADER
+------------*/
+
+header{
+    background: white;
+    padding: 10px 25px;
+}
+
+h1{
+    display: inline-block;
+    vertical-align: middle;
+    font-weight: 900;
+    font-size: 35px;
+}
+
+.logoimg{
+    vertical-align: middle;
+}
